@@ -1,4 +1,6 @@
 % Determine the Allan Variance from recorded frequency data
+% Old initial script
+
 
 T = N/fs; % frequency estimation period
 L = length(largebuffer)/N; % number of frequency estimations
